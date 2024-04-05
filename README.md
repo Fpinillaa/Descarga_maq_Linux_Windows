@@ -1,3 +1,3 @@
 # Descarga de Linux en Windows
 
-En este repositorio se explicara brevemente en que consite la descarga e instalación de una maquina vistual de Linux en SO Windows con algunas caracteristicas de la instalación de conda y sus paquetes
+En este repositorio se explicará brevemente en que consiste la descarga e instalación de una máquina virtual de Linux en SO Windows con algunas características de la instalación de conda y sus paquetes.
